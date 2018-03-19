@@ -1,0 +1,15 @@
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\bin\Debug\ders 1 insertion sort.exe.config
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\bin\Debug\ders 1 insertion sort.exe
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\bin\Debug\ders 1 insertion sort.pdb
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\analysis of algorithms coding examples.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\MainWindow.g.cs
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\App.g.cs
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\ders 1 insertion sort_MarkupCompile.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\ders 1 insertion sort_MarkupCompile.lref
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\MainWindow.baml
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\ders 1 insertion sort.g.resources
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\ders_1_insertion_sort.Properties.Resources.resources
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\analysis of algorithms coding examples.csproj.GenerateResource.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\analysis of algorithms coding examples.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\ders 1 insertion sort.exe
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\analysis of algorithms coding examples\analysis of algorithms coding examples\obj\Debug\ders 1 insertion sort.pdb

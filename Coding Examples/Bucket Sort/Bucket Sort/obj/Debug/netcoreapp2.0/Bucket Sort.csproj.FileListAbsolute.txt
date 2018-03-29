@@ -1,0 +1,11 @@
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\bin\Debug\netcoreapp2.0\Bucket Sort.deps.json
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\bin\Debug\netcoreapp2.0\Bucket Sort.runtimeconfig.json
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\bin\Debug\netcoreapp2.0\Bucket Sort.runtimeconfig.dev.json
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\bin\Debug\netcoreapp2.0\Bucket Sort.dll
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\bin\Debug\netcoreapp2.0\Bucket Sort.pdb
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\obj\Debug\netcoreapp2.0\Bucket Sort.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\obj\Debug\netcoreapp2.0\Bucket Sort.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\obj\Debug\netcoreapp2.0\Bucket Sort.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\obj\Debug\netcoreapp2.0\Bucket Sort.AssemblyInfo.cs
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\obj\Debug\netcoreapp2.0\Bucket Sort.dll
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Bucket Sort\Bucket Sort\obj\Debug\netcoreapp2.0\Bucket Sort.pdb

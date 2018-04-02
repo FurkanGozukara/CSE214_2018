@@ -6,6 +6,7 @@ namespace Radix_Sort
     {
         static void Main(string[] args)
         {
+            //for sorting negative numbers, the array need to be split into positive and negative, each one get sorted as positive, negative one reverse sorted and then 2 need to be merged
             int[] arr = new int[] { 1, 5, 4, 11, 20, 90, 3, 6, 7, 88, 8, 88, 12, 2, 98, 90, 4 };
             Console.WriteLine(string.Join(" , ", arr));
             arr = RadixSort(arr);

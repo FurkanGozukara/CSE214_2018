@@ -7,7 +7,7 @@ namespace Bucket_Sort
     {
         static void Main(string[] args)
         {
-            List<int> lstToBeSorted = new List<int> { 32, 11, 2, 4, 123, 55,57,66,61,60,69, 11, 44, 25, 25, 77 };
+            List<int> lstToBeSorted = new List<int> { 1,1,1,1,1,1,1,1,1,1,1,1,1,999 };
             Console.WriteLine(string.Join(" , ", lstToBeSorted));
             lstToBeSorted = BucketSort(lstToBeSorted.ToArray());
             Console.WriteLine(string.Join(" , ", lstToBeSorted));

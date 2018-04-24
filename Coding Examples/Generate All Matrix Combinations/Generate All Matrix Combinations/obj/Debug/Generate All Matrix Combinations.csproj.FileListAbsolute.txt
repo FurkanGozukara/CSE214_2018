@@ -1,0 +1,6 @@
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Generate All Matrix Combinations\Generate All Matrix Combinations\bin\Debug\Generate All Matrix Combinations.exe
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Generate All Matrix Combinations\Generate All Matrix Combinations\bin\Debug\Generate All Matrix Combinations.pdb
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Generate All Matrix Combinations\Generate All Matrix Combinations\obj\Debug\Generate All Matrix Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Generate All Matrix Combinations\Generate All Matrix Combinations\obj\Debug\Generate All Matrix Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Generate All Matrix Combinations\Generate All Matrix Combinations\obj\Debug\Generate All Matrix Combinations.exe
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Generate All Matrix Combinations\Generate All Matrix Combinations\obj\Debug\Generate All Matrix Combinations.pdb

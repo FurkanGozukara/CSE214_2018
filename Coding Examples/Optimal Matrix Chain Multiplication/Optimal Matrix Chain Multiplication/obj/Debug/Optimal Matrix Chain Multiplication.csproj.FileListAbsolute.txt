@@ -1,0 +1,6 @@
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Optimal Matrix Chain Multiplication\Optimal Matrix Chain Multiplication\bin\Debug\Optimal Matrix Chain Multiplication.exe
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Optimal Matrix Chain Multiplication\Optimal Matrix Chain Multiplication\bin\Debug\Optimal Matrix Chain Multiplication.pdb
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Optimal Matrix Chain Multiplication\Optimal Matrix Chain Multiplication\obj\Debug\Optimal Matrix Chain Multiplication.csprojResolveAssemblyReference.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Optimal Matrix Chain Multiplication\Optimal Matrix Chain Multiplication\obj\Debug\Optimal Matrix Chain Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Optimal Matrix Chain Multiplication\Optimal Matrix Chain Multiplication\obj\Debug\Optimal Matrix Chain Multiplication.exe
+C:\Users\Eren\Desktop\algoritma analizi 2018 ilkbahar\Coding Examples\Optimal Matrix Chain Multiplication\Optimal Matrix Chain Multiplication\obj\Debug\Optimal Matrix Chain Multiplication.pdb

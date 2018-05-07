@@ -16,21 +16,21 @@ namespace Optimal_Matrix_Chain_Multiplication
         {
 
             List<Tuple<int, int>> matricesLenghts = new List<Tuple<int, int>>();
-            //matricesLenghts.Add(new Tuple<int, int>(30, 35));
-            //matricesLenghts.Add(new Tuple<int, int>(35, 15));
-            //matricesLenghts.Add(new Tuple<int, int>(15, 5));
-            //matricesLenghts.Add(new Tuple<int, int>(5, 10));
-            //matricesLenghts.Add(new Tuple<int, int>(10, 20));
-            //matricesLenghts.Add(new Tuple<int, int>(20, 25));
-            //matricesLenghts.Add(new Tuple<int, int>(25, 15));
-            //matricesLenghts.Add(new Tuple<int, int>(15, 45));
-            //matricesLenghts.Add(new Tuple<int, int>(45, 65));
-            //matricesLenghts.Add(new Tuple<int, int>(65, 20));
+            matricesLenghts.Add(new Tuple<int, int>(30, 35));
+            matricesLenghts.Add(new Tuple<int, int>(35, 15));
+            matricesLenghts.Add(new Tuple<int, int>(15, 5));
+            matricesLenghts.Add(new Tuple<int, int>(5, 10));
+            matricesLenghts.Add(new Tuple<int, int>(10, 20));
+            matricesLenghts.Add(new Tuple<int, int>(20, 25));
+            matricesLenghts.Add(new Tuple<int, int>(25, 15));
+            matricesLenghts.Add(new Tuple<int, int>(15, 45));
+            matricesLenghts.Add(new Tuple<int, int>(45, 65));
+            matricesLenghts.Add(new Tuple<int, int>(65, 20));
 
-            matricesLenghts.Add(new Tuple<int, int>(5, 4));
-            matricesLenghts.Add(new Tuple<int, int>(4, 6));
-            matricesLenghts.Add(new Tuple<int, int>(6, 2));
-            matricesLenghts.Add(new Tuple<int, int>(2, 7));
+            //matricesLenghts.Add(new Tuple<int, int>(5, 4));
+            //matricesLenghts.Add(new Tuple<int, int>(4, 6));
+            //matricesLenghts.Add(new Tuple<int, int>(6, 2));
+            //matricesLenghts.Add(new Tuple<int, int>(2, 7));
 
             MatricesCosts = new double[matricesLenghts.Count, matricesLenghts.Count];
 
@@ -53,6 +53,11 @@ namespace Optimal_Matrix_Chain_Multiplication
             double minCost = MatrixChainOrder(MatricesP,1, matricesLenghts.Count  );
 
             double minCostDynamic = MatrixChainOrderDynamic(MatricesP, MatricesP.Length);
+
+            Console.WriteLine("dynamic counter: " + DynamicCounter);
+            Console.WriteLine("recursif counter: " + RegularCounter);
+
+            Console.ReadLine();
         }
 
         static double MatrixChainOrderDynamic(double[] p, int n)
